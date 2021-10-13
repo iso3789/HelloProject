@@ -7,3 +7,4 @@ print(f"Guten Tag {name}!")
 import datetime
 x = datetime.datetime.now()
 print(f"Heute ist der {x}!")
+print("----------------------------------------------")
