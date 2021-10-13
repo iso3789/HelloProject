@@ -2,4 +2,3 @@
 
 print("Guten Start ins neue Schuljahr!")
 print("See you later")
-
