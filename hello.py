@@ -7,5 +7,5 @@ print(f"Guten Tag {name}!")
 import datetime
 x = datetime.datetime.now()
 print(f"Heute ist der {x}!")
-print("See you later")
+print("Wir sehen uns später")
 print("----------------------------------------------")
